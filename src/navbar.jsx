@@ -10,7 +10,7 @@ return(
                 <Link to="/experience" className="nav-link"><li>Experience</li></Link>
                 <Link to="/skills" className="nav-link"><li>Skills</li></Link>
                 <Link to="/contact" className="nav-link"><li>Contact Me</li></Link>
-                <a href="./assets/document/Kriangkai_CV_Update05_24.pdf" className="nav-link" download="Kriangkai_CV_Update05_24.pdf">
+                <a href="./assets/document/Kriangkai_CV_Update05_24.pdf" className="nav-link" download="Kriangkai_Resume_update05-25.pdf">
                 <li>Resume</li></a>
             </ul>
         </div>
